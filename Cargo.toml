@@ -2,3 +2,6 @@
 edition = "2018"
 name = "space-age"
 version = "1.2.0"
+
+[dependencies]
+planet-derive = { path = "planet-derive", version = "0.1.0" }
